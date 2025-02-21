@@ -9,5 +9,6 @@ Here are a few ways you can help:
 - Check general grammar/factual mistakes
 - Help with a website
 - Create an issue about a concept you would like described
+- Come up with a better name (It's kinda long right now)
   
 Any contributions are much appreciated :)
