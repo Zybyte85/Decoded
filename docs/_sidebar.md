@@ -1,4 +1,4 @@
-# [Home](README.md)
+- [Home](README.md)
 
-## Variables
-- [Variables](variables/variables.md)
+- Variables
+  - [Variables](variables/variables.md)
